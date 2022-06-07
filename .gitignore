@@ -1,3 +1,4 @@
 # exclusion fichiers html
 *.html
+# exclusion fichiers dans le dossier js
 js/
